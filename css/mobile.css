@@ -1,0 +1,35 @@
+@media(max-width: 824px) {
+    .flex-columns .row {
+        flex-direction: column;
+      }
+      .flex-columns .column1 img {
+        padding: 0 0 50px 0; 
+      }
+      .logo {
+        display: none;
+      }
+      .flex-columns .column2 {
+        padding: 20px 50px 50px;
+      }
+      .flex-columns .column2 p {
+        text-align: center;
+      }
+      h1 {
+        font-size: 34px;
+
+      }
+      
+      h2 {
+        font-size: 33px;
+      }
+      h3 {
+        font-size: 30px;
+      }
+      .btn {
+        margin-top: 25px;
+      }
+      .section-header2 {
+        padding: 68px 0 0px;
+    }
+}
+
